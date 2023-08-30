@@ -1,5 +1,4 @@
-# Hello! Welcome to my Github profile.
-# My name is Yasmin and my nickname is "Yass"!
+# Hello! i'm Yasmin.
 <!--
 **yassnoberto/yassnoberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
