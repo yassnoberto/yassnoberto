@@ -1,4 +1,4 @@
-# Hello! i'm Yasmin.
+# Ola, seja bem-vindo! Meu nome é Yasmin.
 <!--
 **yassnoberto/yassnoberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
