@@ -2,6 +2,7 @@
 # Sobre mim
 
 💻 **Estudante de Desenvolvimento de Software**
+
 🎓 Aluna do Colégio Técnico de Campinas - Unicamp  
 💡 Interessada por desenvolver ideias e organizar projetos tecnológicos
 
